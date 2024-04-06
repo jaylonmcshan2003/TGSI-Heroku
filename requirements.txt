@@ -1,0 +1,11 @@
+azure-core==1.29.5
+azure-eventhub==5.11.5
+certifi==2023.11.17
+charset-normalizer==3.3.2
+gunicorn==21.2.0
+idna==3.6
+packaging==24.0
+requests==2.31.0
+six==1.16.0
+typing_extensions==4.8.0
+urllib3==2.1.0
