@@ -46,3 +46,4 @@ urllib3==2.1.0
 Werkzeug==3.0.2
 wsproto==1.2.0
 zeep==4.2.1
+pytest==6.2.5
